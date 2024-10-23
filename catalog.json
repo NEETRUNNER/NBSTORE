@@ -1,0 +1,128 @@
+[
+  {
+    "index": 1,
+    "name": "Item 1",
+    "title": "Костюм бомбер фліс жіночий 2024 шоколад",
+    "image": "choco_suit.jpg",
+    "price": "2590₴"
+  },
+  {
+    "index": 2,
+    "name": "Item 2",
+    "title": "Костюм бомбер фліс жіночий 2024 бордо",
+    "image": "bordo_suit.jpg",
+    "price": "2590₴"
+  },
+  {
+    "index": 3,
+    "name": "Item 3",
+    "title": "Костюм бомбер фліс жіночий 2024 чорний",
+    "image": "black_suit.jpg",
+    "price": "2590₴"
+  },
+  {
+    "index": 4,
+    "name": "Item 4",
+    "title": "Джинси жіночі прямі графіт 2024",
+    "image": "grafit_jeans.jpg",
+    "price": "2090₴"
+  },
+  {
+    "index": 5,
+    "name": "Item 5",
+    "title": "Джинси жіночі прямі темно сині 2024",
+    "image": "blue_jeans.jpg",
+    "price": "2090₴"
+  },
+  {
+    "index": 6,
+    "name": "Item 6",
+    "title": "Вовняне пальто під пояс жіноче шоколад 2024",
+    "image": "palto_chocolad.jpg",
+    "price": "3990"
+  },
+  {
+    "index": 7,
+    "name": "Item 7",
+    "title": "Куртка зимова чоловіча 2024 чорна",
+    "image": "man_jacket_black.jpg",
+    "price": "3499₴"
+  },
+  {
+    "index": 8,
+    "name": "Item 8",
+    "title": "Куртка зимова чоловіча 2024 графіт",
+    "image": "man_jacket_graphit.jpg",
+    "price": "3499₴"
+  },
+  {
+    "index": 9,
+    "name": "Item 9",
+    "title": "Куртка зимова чоловіча 2024 зелена",
+    "image": "man_jacket_green.jpg",
+    "price": "3499₴"
+  },
+  {
+    "index": 10,
+    "name": "Item 10",
+    "title": "Куртка зимова чоловіча 2024 електрик",
+    "image": "man_jacket_blue.jpg",
+    "price": "3499₴"
+  },
+  {
+    "index": 11,
+    "name": "Item 11",
+    "title": "Светр в’язаний чоловічий на блискавці графіт",
+    "image": "man_sweater_grey.jpg",
+    "price": "1790₴"
+  },
+  {
+    "index": 12,
+    "name": "Item 12",
+    "title": "Костюм бомбер фліс чоловічий 2024 чорний",
+    "image": "man_bomber_black.jpg",
+    "price": "2590₴"
+  },
+  {
+    "index": 13,
+    "name": "Item 13",
+    "title": "Базовий рюкзак Р12",
+    "image": "base_bag.jpg",
+    "price": "1590₴"
+  },
+  {
+    "index": 14,
+    "name": "Item 14",
+    "title": "Бананка М10",
+    "image": "man_bananka.jpg",
+    "price": "1099₴"
+  },
+  {
+    "index": 15,
+    "name": "Item 15",
+    "title": "Велика шкіряна дорожня сумка",
+    "image": "man_big_black_bag.jpg",
+    "price": "1690₴"
+  },
+  {
+    "index": 16,
+    "name": "Item 16",
+    "title": "Шкіряний месенджер М9",
+    "image": "man_bananka2.jpg",
+    "price": "1699₴"
+  },
+  {
+    "index": 17,
+    "name": "Item 17",
+    "title": "Комплект велика сумка + органайзер",
+    "image": "man_big_bag-organiser.jpg",
+    "price": "1899₴"
+  },
+  {
+    "index": 18,
+    "name": "Item 18",
+    "title": "Сумка слінг з натуральної шкіри М13",
+    "image": "man_bananka3.jpg",
+    "price": "1899₴"
+  }
+]

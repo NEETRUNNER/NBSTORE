@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/NBSTORE/static/css/main.e01a85b6.css",
+    "main.js": "/NBSTORE/static/js/main.81b88ee7.js",
+    "static/media/slide_3.jpg": "/NBSTORE/static/media/slide_3.4a980b80501ee04be5f4.jpg",
+    "static/media/slide_1.jpg": "/NBSTORE/static/media/slide_1.cbc646014977df928d90.jpg",
+    "static/media/slide_2.jpg": "/NBSTORE/static/media/slide_2.d596c8469d1c98e39391.jpg",
+    "static/media/palto_chocolad.jpg": "/NBSTORE/static/media/palto_chocolad.6ebea9adf6a8b95b95f4.jpg",
+    "static/media/blue_jeans.jpg": "/NBSTORE/static/media/blue_jeans.02c1f6de27ac0879889d.jpg",
+    "static/media/choco_suit.jpg": "/NBSTORE/static/media/choco_suit.2cf5d820945779b7f03d.jpg",
+    "static/media/black_suit.jpg": "/NBSTORE/static/media/black_suit.b161b55813857c795fa0.jpg",
+    "static/media/grafit_jeans.jpg": "/NBSTORE/static/media/grafit_jeans.78d2bb979f5c12240c66.jpg",
+    "static/media/bordo_suit.jpg": "/NBSTORE/static/media/bordo_suit.13464206d54e740eca16.jpg",
+    "static/media/man_jacket_blue.jpg": "/NBSTORE/static/media/man_jacket_blue.9d2a1281640b6a9b5cd0.jpg",
+    "static/media/base_bag.jpg": "/NBSTORE/static/media/base_bag.e0006a80d80faef93d9e.jpg",
+    "static/media/man_bananka2.jpg": "/NBSTORE/static/media/man_bananka2.4a240a71246b5456dbd5.jpg",
+    "static/media/man_sweater_grey.jpg": "/NBSTORE/static/media/man_sweater_grey.818128cef5a343ff2ddb.jpg",
+    "static/media/man_big_black_bag.jpg": "/NBSTORE/static/media/man_big_black_bag.3fa7f09f7991c4f6e0dc.jpg",
+    "static/media/man_big_bag-organiser.jpg": "/NBSTORE/static/media/man_big_bag-organiser.b29a33b013ded217e84f.jpg",
+    "static/media/man_jacket_graphit.jpg": "/NBSTORE/static/media/man_jacket_graphit.91871cf9bc7b7f5625f9.jpg",
+    "static/media/man_bananka.jpg": "/NBSTORE/static/media/man_bananka.48f55bc1aead629f11b8.jpg",
+    "static/media/man_jacket_green.jpg": "/NBSTORE/static/media/man_jacket_green.42349d367a290731cc6f.jpg",
+    "static/media/man_bomber_black.jpg": "/NBSTORE/static/media/man_bomber_black.eed4facfcf2fec004ec1.jpg",
+    "static/media/man_bananka3.jpg": "/NBSTORE/static/media/man_bananka3.6d9aa069b4484a8c8229.jpg",
+    "static/media/man_jacket_black.jpg": "/NBSTORE/static/media/man_jacket_black.739a31de5b9758640863.jpg",
+    "static/media/gude-2024-10-22.log": "/NBSTORE/static/media/gude-2024-10-22.e610b613c0e2af2051d8.log",
+    "static/media/slick.svg": "/NBSTORE/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/NBSTORE/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/NBSTORE/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/NBSTORE/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/NBSTORE/index.html",
+    "main.e01a85b6.css.map": "/NBSTORE/static/css/main.e01a85b6.css.map",
+    "main.81b88ee7.js.map": "/NBSTORE/static/js/main.81b88ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01a85b6.css",
+    "static/js/main.81b88ee7.js"
+  ]
+}
