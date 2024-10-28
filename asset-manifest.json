@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NBSTORE/static/css/main.cf9cc0f7.css",
-    "main.js": "/NBSTORE/static/js/main.319c3f43.js",
+    "main.css": "/NBSTORE/static/css/main.720de8f8.css",
+    "main.js": "/NBSTORE/static/js/main.967226d8.js",
     "static/media/slide_3.jpg": "/NBSTORE/static/media/slide_3.4a980b80501ee04be5f4.jpg",
     "static/media/slide_1.jpg": "/NBSTORE/static/media/slide_1.cbc646014977df928d90.jpg",
     "static/media/slide_2.jpg": "/NBSTORE/static/media/slide_2.d596c8469d1c98e39391.jpg",
@@ -29,11 +29,11 @@
     "static/media/slick.ttf": "/NBSTORE/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/NBSTORE/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/NBSTORE/index.html",
-    "main.cf9cc0f7.css.map": "/NBSTORE/static/css/main.cf9cc0f7.css.map",
-    "main.319c3f43.js.map": "/NBSTORE/static/js/main.319c3f43.js.map"
+    "main.720de8f8.css.map": "/NBSTORE/static/css/main.720de8f8.css.map",
+    "main.967226d8.js.map": "/NBSTORE/static/js/main.967226d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9cc0f7.css",
-    "static/js/main.319c3f43.js"
+    "static/css/main.720de8f8.css",
+    "static/js/main.967226d8.js"
   ]
 }
