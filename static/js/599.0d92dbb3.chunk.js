@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[599],{9599:(s,a,e)=>{e.r(a),e.d(a,{default:()=>n});var c=e(579);const n=()=>(0,c.jsx)("section",{className:"about h-screen",children:(0,c.jsx)("div",{className:"about-container"})})}}]);
+//# sourceMappingURL=599.0d92dbb3.chunk.js.map
