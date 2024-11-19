@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NBSTORE/static/css/main.3a10b962.css",
-    "main.js": "/NBSTORE/static/js/main.7fe32b89.js",
+    "main.css": "/NBSTORE/static/css/main.8620344f.css",
+    "main.js": "/NBSTORE/static/js/main.1f5f4192.js",
     "static/css/24.c9feb62c.chunk.css": "/NBSTORE/static/css/24.c9feb62c.chunk.css",
-    "static/js/24.b3799233.chunk.js": "/NBSTORE/static/js/24.b3799233.chunk.js",
+    "static/js/24.03fd5e51.chunk.js": "/NBSTORE/static/js/24.03fd5e51.chunk.js",
     "static/js/10.d3f95faf.chunk.js": "/NBSTORE/static/js/10.d3f95faf.chunk.js",
     "static/js/172.b33ed1d9.chunk.js": "/NBSTORE/static/js/172.b33ed1d9.chunk.js",
     "static/js/710.07885514.chunk.js": "/NBSTORE/static/js/710.07885514.chunk.js",
     "static/js/599.0d92dbb3.chunk.js": "/NBSTORE/static/js/599.0d92dbb3.chunk.js",
     "static/js/270.c505c72f.chunk.js": "/NBSTORE/static/js/270.c505c72f.chunk.js",
-    "static/js/6.1e9df79a.chunk.js": "/NBSTORE/static/js/6.1e9df79a.chunk.js",
+    "static/js/6.bd86a7e4.chunk.js": "/NBSTORE/static/js/6.bd86a7e4.chunk.js",
     "static/js/58.c5d1a394.chunk.js": "/NBSTORE/static/js/58.c5d1a394.chunk.js",
     "static/js/584.38126753.chunk.js": "/NBSTORE/static/js/584.38126753.chunk.js",
     "static/js/835.1e134b0a.chunk.js": "/NBSTORE/static/js/835.1e134b0a.chunk.js",
@@ -61,16 +61,16 @@
     "static/media/gude-2024-11-03.log": "/NBSTORE/static/media/gude-2024-11-03.fdcbedb4a3af0ed1793d.log",
     "static/media/slick.woff": "/NBSTORE/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/NBSTORE/index.html",
-    "main.3a10b962.css.map": "/NBSTORE/static/css/main.3a10b962.css.map",
-    "main.7fe32b89.js.map": "/NBSTORE/static/js/main.7fe32b89.js.map",
+    "main.8620344f.css.map": "/NBSTORE/static/css/main.8620344f.css.map",
+    "main.1f5f4192.js.map": "/NBSTORE/static/js/main.1f5f4192.js.map",
     "24.c9feb62c.chunk.css.map": "/NBSTORE/static/css/24.c9feb62c.chunk.css.map",
-    "24.b3799233.chunk.js.map": "/NBSTORE/static/js/24.b3799233.chunk.js.map",
+    "24.03fd5e51.chunk.js.map": "/NBSTORE/static/js/24.03fd5e51.chunk.js.map",
     "10.d3f95faf.chunk.js.map": "/NBSTORE/static/js/10.d3f95faf.chunk.js.map",
     "172.b33ed1d9.chunk.js.map": "/NBSTORE/static/js/172.b33ed1d9.chunk.js.map",
     "710.07885514.chunk.js.map": "/NBSTORE/static/js/710.07885514.chunk.js.map",
     "599.0d92dbb3.chunk.js.map": "/NBSTORE/static/js/599.0d92dbb3.chunk.js.map",
     "270.c505c72f.chunk.js.map": "/NBSTORE/static/js/270.c505c72f.chunk.js.map",
-    "6.1e9df79a.chunk.js.map": "/NBSTORE/static/js/6.1e9df79a.chunk.js.map",
+    "6.bd86a7e4.chunk.js.map": "/NBSTORE/static/js/6.bd86a7e4.chunk.js.map",
     "58.c5d1a394.chunk.js.map": "/NBSTORE/static/js/58.c5d1a394.chunk.js.map",
     "584.38126753.chunk.js.map": "/NBSTORE/static/js/584.38126753.chunk.js.map",
     "835.1e134b0a.chunk.js.map": "/NBSTORE/static/js/835.1e134b0a.chunk.js.map",
@@ -78,7 +78,7 @@
     "858.8ccbf46e.chunk.js.map": "/NBSTORE/static/js/858.8ccbf46e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a10b962.css",
-    "static/js/main.7fe32b89.js"
+    "static/css/main.8620344f.css",
+    "static/js/main.1f5f4192.js"
   ]
 }
