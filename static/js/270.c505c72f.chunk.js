@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[270],{9270:(s,c,a)=>{a.r(c),a.d(c,{default:()=>n});var e=a(579);const n=()=>(0,e.jsx)("section",{className:"contacts h-screen",children:(0,e.jsx)("div",{className:"contacts-container"})})}}]);
-//# sourceMappingURL=270.c505c72f.chunk.js.map
