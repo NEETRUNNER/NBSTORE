@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/NBSTORE/static/css/main.bb5e247b.css",
-    "main.js": "/NBSTORE/static/js/main.dde1e864.js",
+    "main.js": "/NBSTORE/static/js/main.66cc626d.js",
     "static/css/24.c9feb62c.chunk.css": "/NBSTORE/static/css/24.c9feb62c.chunk.css",
     "static/js/24.9dd3fe71.chunk.js": "/NBSTORE/static/js/24.9dd3fe71.chunk.js",
     "static/js/10.79bbd44e.chunk.js": "/NBSTORE/static/js/10.79bbd44e.chunk.js",
     "static/js/172.9d227695.chunk.js": "/NBSTORE/static/js/172.9d227695.chunk.js",
-    "static/js/710.02f114ac.chunk.js": "/NBSTORE/static/js/710.02f114ac.chunk.js",
+    "static/js/710.3726c8b5.chunk.js": "/NBSTORE/static/js/710.3726c8b5.chunk.js",
     "static/js/599.a66f6a11.chunk.js": "/NBSTORE/static/js/599.a66f6a11.chunk.js",
     "static/js/270.3957fa84.chunk.js": "/NBSTORE/static/js/270.3957fa84.chunk.js",
     "static/js/6.b14b04bd.chunk.js": "/NBSTORE/static/js/6.b14b04bd.chunk.js",
@@ -62,12 +62,12 @@
     "static/media/slick.woff": "/NBSTORE/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/NBSTORE/index.html",
     "main.bb5e247b.css.map": "/NBSTORE/static/css/main.bb5e247b.css.map",
-    "main.dde1e864.js.map": "/NBSTORE/static/js/main.dde1e864.js.map",
+    "main.66cc626d.js.map": "/NBSTORE/static/js/main.66cc626d.js.map",
     "24.c9feb62c.chunk.css.map": "/NBSTORE/static/css/24.c9feb62c.chunk.css.map",
     "24.9dd3fe71.chunk.js.map": "/NBSTORE/static/js/24.9dd3fe71.chunk.js.map",
     "10.79bbd44e.chunk.js.map": "/NBSTORE/static/js/10.79bbd44e.chunk.js.map",
     "172.9d227695.chunk.js.map": "/NBSTORE/static/js/172.9d227695.chunk.js.map",
-    "710.02f114ac.chunk.js.map": "/NBSTORE/static/js/710.02f114ac.chunk.js.map",
+    "710.3726c8b5.chunk.js.map": "/NBSTORE/static/js/710.3726c8b5.chunk.js.map",
     "599.a66f6a11.chunk.js.map": "/NBSTORE/static/js/599.a66f6a11.chunk.js.map",
     "270.3957fa84.chunk.js.map": "/NBSTORE/static/js/270.3957fa84.chunk.js.map",
     "6.b14b04bd.chunk.js.map": "/NBSTORE/static/js/6.b14b04bd.chunk.js.map",
@@ -79,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.bb5e247b.css",
-    "static/js/main.dde1e864.js"
+    "static/js/main.66cc626d.js"
   ]
 }
